@@ -13,3 +13,8 @@
 ![image](https://user-images.githubusercontent.com/52392004/213848094-cffb9333-fdf0-41db-9580-84deb7b83e89.png)
 
 ![image](https://user-images.githubusercontent.com/52392004/213848192-20c6e8fc-7639-48a5-b927-355b6d0ada53.png)
+
+
+## Reference 
+
+[Amazon SageMaker 오버뷰 - 강성문](https://www.youtube.com/watch?v=jF2BN98KBlg)
