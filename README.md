@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/52392004/213848094-cffb9333-fdf0-41db-9580-84deb7b83e89.png)
 
 
-<img src="https://user-images.githubusercontent.com/52392004/213848192-20c6e8fc-7639-48a5-b927-355b6d0ada53.png" width="800">
+<img src="https://user-images.githubusercontent.com/52392004/213848192-20c6e8fc-7639-48a5-b927-355b6d0ada53.png" width="600">
 
 
 ## Reference 
