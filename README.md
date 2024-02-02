@@ -6,7 +6,7 @@
 - Base network로 VGG와 Resnet 선택
 - Sigle shot multibox detector (SSD)구조를 이용
 - Transfer Learning 지원 (Freeze layer 선택)
-- Momentum, weight_decay등 하이퍼라라미터 조정
+- Momentum, weight_decay등 하이퍼파라미터 조정
 - Deep NN을 이용해 이미지 안의 객체 발견 및 분류
 - 출력은 사각형 Bounding box와 분류 결과의 신뢰도로 구성
 
